@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.amcsoftwaresolutions.chat",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.3",
+    "applicationType": "monolith",
+    "baseName": "FanagApp",
+    "packageName": "com.amcsoftwaresolutions.chat",
+    "packageFolder": "com/amcsoftwaresolutions/chat",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZTkzYTExOGY0NTgwN2QyOTI3NmFiMTUxZjRkMmFjODY0ODYwY2IzNjA1OTRiYWI3NDIyZWI4NWE5NTE2NmJkNGUwMzg1Njk3NThmNGIyZDQ2YmU1NzZhYjQ5NWY4ZGNiNjI3NzU3N2M4MDljOWNmNjYxYTNlNGY5YWMyZmMwZGM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1602664757062,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"],
+    "blueprints": [],
+    "reactive": true
+  }
+}
